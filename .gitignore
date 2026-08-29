@@ -1,0 +1,9 @@
+# Local build and IDE artefacts
+*.dll
+*.pdb
+*.log
+*.tmp
+bin/
+obj/
+.vs/
+
